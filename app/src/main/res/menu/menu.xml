@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homemenu"
+        android:title="Home"
+        android:icon="@drawable/baseline_local_library_24" />
+
+    <item
+        android:id="@+id/hoteldetailmenu"
+        android:title="Hotel"
+        android:icon="@drawable/baseline_local_hotel_24" />
+
+    <item
+        android:id="@+id/ticketmenu"
+        android:title="Ticket"
+        android:icon="@drawable/baseline_local_offer_24" />
+
+    <item
+        android:id="@+id/profilmenu"
+        android:title="Profil"
+        android:icon="@drawable/baseline_self_improvement_24" />
+</menu>
